@@ -59,4 +59,3 @@
 | `ls -lh`                               | Long listing with human readable file sizes in KB, MB, or GB                     |
 | `ls -lo`                               | List the file names with size, owner, and flags                                  |
 | `ls -la`                               | List detailed directory contents, including hidden files                         |
-| **File Size and Disk Space**
